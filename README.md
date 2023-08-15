@@ -1,0 +1,2 @@
+# 2023Depositar_WikidataItem_CosineSimilarity
+運用Cosine Similarity計算Wikidata關鍵字Qids’ Pids、Qids、en-label發展關鍵字推薦模式——以Depositar為例
